@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\Module1_SPP\Module1_SPP\bin\Debug\Module1_SPP.exe.config
+C:\Users\azatb\source\repos\Module1_SPP\Module1_SPP\bin\Debug\Module1_SPP.exe
+C:\Users\azatb\source\repos\Module1_SPP\Module1_SPP\bin\Debug\Module1_SPP.pdb
+C:\Users\azatb\source\repos\Module1_SPP\Module1_SPP\obj\Debug\Module1_SPP.csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\Module1_SPP\Module1_SPP\obj\Debug\Module1_SPP.csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\Module1_SPP\Module1_SPP\obj\Debug\Module1_SPP.exe
+C:\Users\azatb\source\repos\Module1_SPP\Module1_SPP\obj\Debug\Module1_SPP.pdb

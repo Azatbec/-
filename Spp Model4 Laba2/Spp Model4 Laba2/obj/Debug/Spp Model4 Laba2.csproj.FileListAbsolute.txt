@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\Spp Model4 Laba2\Spp Model4 Laba2\bin\Debug\Spp Model4 Laba2.exe.config
+C:\Users\azatb\source\repos\Spp Model4 Laba2\Spp Model4 Laba2\bin\Debug\Spp Model4 Laba2.exe
+C:\Users\azatb\source\repos\Spp Model4 Laba2\Spp Model4 Laba2\bin\Debug\Spp Model4 Laba2.pdb
+C:\Users\azatb\source\repos\Spp Model4 Laba2\Spp Model4 Laba2\obj\Debug\Spp Model4 Laba2.csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\Spp Model4 Laba2\Spp Model4 Laba2\obj\Debug\Spp Model4 Laba2.csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\Spp Model4 Laba2\Spp Model4 Laba2\obj\Debug\Spp Model4 Laba2.exe
+C:\Users\azatb\source\repos\Spp Model4 Laba2\Spp Model4 Laba2\obj\Debug\Spp Model4 Laba2.pdb

@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\SPP_Model4_Practic_word_1\SPP_Model4_Practic_word_1\bin\Debug\SPP_Model4_Practic_word_1.exe.config
+C:\Users\azatb\source\repos\SPP_Model4_Practic_word_1\SPP_Model4_Practic_word_1\bin\Debug\SPP_Model4_Practic_word_1.exe
+C:\Users\azatb\source\repos\SPP_Model4_Practic_word_1\SPP_Model4_Practic_word_1\bin\Debug\SPP_Model4_Practic_word_1.pdb
+C:\Users\azatb\source\repos\SPP_Model4_Practic_word_1\SPP_Model4_Practic_word_1\obj\Debug\SPP_Model4_Practic_word_1.csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\SPP_Model4_Practic_word_1\SPP_Model4_Practic_word_1\obj\Debug\SPP_Model4_Practic_word_1.csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\SPP_Model4_Practic_word_1\SPP_Model4_Practic_word_1\obj\Debug\SPP_Model4_Practic_word_1.exe
+C:\Users\azatb\source\repos\SPP_Model4_Practic_word_1\SPP_Model4_Practic_word_1\obj\Debug\SPP_Model4_Practic_word_1.pdb
